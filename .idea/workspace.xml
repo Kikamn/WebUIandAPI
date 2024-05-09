@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bda8bc84-9a8c-4ff3-ba70-d0a72d73a06d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/kika/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Feature/api.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Feature/web.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Helper/Endpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Helper/JSONSchema/get_list_user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Helper/JSONSchema/post_create_user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Helper/Models.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Helper/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/ApiPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/WebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Runner/testRunnerApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepDef/ApiStepdef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepDef/Hook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepDef/WebStepDef.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2fwH03DgtevQPipT9gCAKYUU6Qi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: web.executor": "Run",
+    "Cucumber Java.Scenario: Check Burgermenu in Swag Labs.executor": "Run",
+    "Cucumber Java.Scenario: Check filter in Swag Labs.executor": "Run",
+    "Cucumber Java.Scenario: Login With username valid and password invalid.executor": "Run",
+    "Cucumber Java.Scenario: Login with username and password blank.executor": "Run",
+    "Cucumber Java.Scenario: Login with username and password correct.executor": "Run",
+    "Cucumber Java.Scenario: Login with username invalid and password valid.executor": "Run",
+    "Cucumber Java.Scenario: Login with username valid and password empty.executor": "Run",
+    "Cucumber Java.Scenario: User can click button remove.executor": "Run",
+    "Cucumber Java.Scenario: User can get in API.executor": "Run",
+    "Cucumber Java.Scenario: User can post in API.executor": "Run",
+    "Cucumber Java.Scenario: user can delete user in API.executor": "Run",
+    "Cucumber Java.Scenario: user can update / patch user in API.executor": "Run",
+    "Gradle.Build WebUIandAPI.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/intel/Desktop/JAVA/WebUIandAPI",
+    "onboarding.tips.debug.path": "C:/Users/intel/Desktop/JAVA/WebUIandAPI/src/main/java/org/kika/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Login with username and password correct">
+    <configuration name="Scenario: Login with username and password correct" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Feature/web.feature" />
+      <option name="GLUE" value="StepDef" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WebUIandAPI.test" />
+      <option name="NAME_FILTER" value="^Login with username and password correct$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login with username and password correct$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login with username and password correct" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User can get in API" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Feature/api.feature" />
+      <option name="GLUE" value="StepDef" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WebUIandAPI.test" />
+      <option name="NAME_FILTER" value="^User can get in API$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User can get in API$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User can get in API" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User can post in API" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Feature/api.feature" />
+      <option name="GLUE" value="StepDef" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WebUIandAPI.test" />
+      <option name="NAME_FILTER" value="^User can post in API$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User can post in API$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User can post in API" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: user can delete user in API" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Feature/api.feature" />
+      <option name="GLUE" value="StepDef" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WebUIandAPI.test" />
+      <option name="NAME_FILTER" value="^user can delete user in API$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^user can delete user in API$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: user can delete user in API" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: user can update / patch user in API" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Feature/api.feature" />
+      <option name="GLUE" value="StepDef" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WebUIandAPI.test" />
+      <option name="NAME_FILTER" value="^user can update \/ patch user in API$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^user can update \/ patch user in API$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: user can update / patch user in API" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Login with username and password correct" />
+        <item itemvalue="Cucumber Java.Scenario: User can get in API" />
+        <item itemvalue="Cucumber Java.Scenario: user can update / patch user in API" />
+        <item itemvalue="Cucumber Java.Scenario: User can post in API" />
+        <item itemvalue="Cucumber Java.Scenario: user can delete user in API" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bda8bc84-9a8c-4ff3-ba70-d0a72d73a06d" name="Changes" comment="" />
+      <created>1714704998554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714704998554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/kika/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
