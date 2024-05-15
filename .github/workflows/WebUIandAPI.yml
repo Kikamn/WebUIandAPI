@@ -32,7 +32,7 @@ jobs:
 
     #Execute gradle command for runing cucumber test
     - name: Execute test
-      run: ./gradlew cucumber
+      run: ./gradlew webTest
     
   dependency-submission:
 
